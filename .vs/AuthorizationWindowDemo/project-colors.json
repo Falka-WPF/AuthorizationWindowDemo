@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "879c2cec-7359-4f7c-b616-30af923fe987": {
+      "ProjectGuid": "879c2cec-7359-4f7c-b616-30af923fe987",
+      "DisplayName": "AuthorizationWindowDemo",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

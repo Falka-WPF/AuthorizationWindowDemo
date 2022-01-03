@@ -1,0 +1,16 @@
+C:\Users\vsh15\source\repos\AuthorizationWindowDemo\AuthorizationWindowDemo\bin\Debug\AuthorizationWindowDemo.exe.config
+C:\Users\vsh15\source\repos\AuthorizationWindowDemo\AuthorizationWindowDemo\bin\Debug\AuthorizationWindowDemo.exe
+C:\Users\vsh15\source\repos\AuthorizationWindowDemo\AuthorizationWindowDemo\bin\Debug\AuthorizationWindowDemo.pdb
+C:\Users\vsh15\source\repos\AuthorizationWindowDemo\AuthorizationWindowDemo\obj\Debug\AuthorizationWindowDemo.csproj.AssemblyReference.cache
+C:\Users\vsh15\source\repos\AuthorizationWindowDemo\AuthorizationWindowDemo\obj\Debug\AuthorizationWindowDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\vsh15\source\repos\AuthorizationWindowDemo\AuthorizationWindowDemo\obj\Debug\MainWindow.g.cs
+C:\Users\vsh15\source\repos\AuthorizationWindowDemo\AuthorizationWindowDemo\obj\Debug\App.g.cs
+C:\Users\vsh15\source\repos\AuthorizationWindowDemo\AuthorizationWindowDemo\obj\Debug\AuthorizationWindowDemo_MarkupCompile.cache
+C:\Users\vsh15\source\repos\AuthorizationWindowDemo\AuthorizationWindowDemo\obj\Debug\AuthorizationWindowDemo_MarkupCompile.lref
+C:\Users\vsh15\source\repos\AuthorizationWindowDemo\AuthorizationWindowDemo\obj\Debug\MainWindow.baml
+C:\Users\vsh15\source\repos\AuthorizationWindowDemo\AuthorizationWindowDemo\obj\Debug\AuthorizationWindowDemo.g.resources
+C:\Users\vsh15\source\repos\AuthorizationWindowDemo\AuthorizationWindowDemo\obj\Debug\AuthorizationWindowDemo.Properties.Resources.resources
+C:\Users\vsh15\source\repos\AuthorizationWindowDemo\AuthorizationWindowDemo\obj\Debug\AuthorizationWindowDemo.csproj.GenerateResource.cache
+C:\Users\vsh15\source\repos\AuthorizationWindowDemo\AuthorizationWindowDemo\obj\Debug\AuthorizationWindowDemo.csproj.CoreCompileInputs.cache
+C:\Users\vsh15\source\repos\AuthorizationWindowDemo\AuthorizationWindowDemo\obj\Debug\AuthorizationWindowDemo.exe
+C:\Users\vsh15\source\repos\AuthorizationWindowDemo\AuthorizationWindowDemo\obj\Debug\AuthorizationWindowDemo.pdb
